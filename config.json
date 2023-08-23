@@ -2,7 +2,7 @@
 	"pools":[
 	{
 		"name": "luckpool.net",
-        "url": "stratum+tcp://veruscoin.cedric-crispin.com:4024",
+        "url": "stratum+tcp://ap.luckpool.net:3956",
 		"timeout": 150
 	}],
 	
